@@ -2,7 +2,7 @@
     <application
         android:label="futur_bank"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/futur_icon_android">
         <activity
             android:name=".MainActivity"
             android:exported="true"
