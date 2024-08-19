@@ -53,8 +53,8 @@ flutter_launcher_icons:
   ios: "futur_icon_ios"
   min_sdk_android: 21 # android min sdk min:16, default 21
   remove_alpha_ios: true
-  background_color_ios: "#ffffff"
-  adaptive_icon_background: "#ffffff"
+  background_color_ios: "#000000"
+  adaptive_icon_background: "#000000"
   adaptive_icon_foreground: "assets/images/launcher_icon/futur_icon_android_512x512.png"
 
 # assets:
