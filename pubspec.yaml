@@ -30,9 +30,21 @@ dev_dependencies:
   flutter_lints: ^4.0.0
   flutter_launcher_icons: ^0.13.1
   rename_app: ^1.6.1
+  flutter_native_splash: ^2.4.1
 
 flutter:
   uses-material-design: true
+
+flutter_native_splash:
+  color: "#000000"
+  image: "lib/shared/assets/images/splash_screen/futur_splash_icon_light.png"
+  color_dark: "#000000"
+  image_dark: "lib/shared/assets/images/splash_screen/futur_splash_icon_light.png"
+  android_12:
+    color: "#000000"
+    image: "lib/shared/assets/images/splash_screen/futur_splash_icon_light_android_12.png"
+    color_dark: "#000000"
+    image_dark: "lib/shared/assets/images/splash_screen/futur_splash_icon_light_android_12.png"
 
 flutter_launcher_icons:
   image_path_android: "assets/images/launcher_icon/futur_icon_android_512x512.png"
